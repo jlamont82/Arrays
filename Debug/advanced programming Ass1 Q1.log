@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\J Lamont\source\repos\advanced programming Ass1 Q1\main.cpp(12,6): warning C4101: 'num3': unreferenced local variable
+C:\Users\J Lamont\source\repos\advanced programming Ass1 Q1\main.cpp(14,6): warning C4101: 'numdigits': unreferenced local variable
+  readarray.cpp
+  Generating Code...
+  advanced programming Ass1 Q1.vcxproj -> C:\Users\J Lamont\source\repos\advanced programming Ass1 Q1\Debug\advanced programming Ass1 Q1.exe
