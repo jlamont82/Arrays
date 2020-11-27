@@ -21,7 +21,7 @@ or (if the answer is negative)
 The difference is: -29837430045
 
 # How to build Files from the source code
-- Install Visual Studio 2019 & UWP Development Kit.
+- Install Visual Studio 2019 
 - Clone the source and open the Files.sln in VS.
 - VS installs all missing dependencies for you.
 - Launch the package project
