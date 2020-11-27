@@ -1,15 +1,24 @@
 # Arrays
+a console app designed to solve the following problem- 
+Write a program which prompts the user to enter two positive integers, each with up to
+50 digits, then subtracts the second number from the first number, and prints the answer.
+You should use an array to store each of the integers, with one digit in each array element.
 
-# linked-list
-a console app designed to store a doubly linked list of integers in order, and which will allow the following operations:
-1. A constructor and a destructor.
-2. Insert a new element chosen by the user at the correct place in the list; for
-example inserting 8 in the list above will give the list 3, 6, 7, 8, 10.
-3. Delete a data element chosen (by value) by the user, for example deleting
-6 from the list above will leave 3, 7, 10.
-4. List elements from left to right (i.e. in ascending order).
-5. List elements from right to left (i.e. in descending order).
-FarmField Desktop App which allows users to download and submit government forms and preform budgeting calculations.
+Each input should be in the normal format, e.g. something like:
+
+Enter first integer:
+239834095803945862440835983452184985298358
+
+Enter second integer:
+939542309853120721934217021372984729812
+
+Similarly the output of the answer should be in the normal format, i.e. the format you
+would expect to get from a calculator with a large enough display. So for the input above:
+The difference is: 238894553494092741718901766430812000568546
+
+or (if the answer is negative)
+
+The difference is: -29837430045
 
 # How to build Files from the source code
 - Install Visual Studio 2019 & UWP Development Kit.
